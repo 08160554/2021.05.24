@@ -121,6 +121,7 @@ int main(int argc, char** argv)
 
 05
 ----
+```C
 #include <GL/glut.h>
 int angle=0;
 void drawArm1()
